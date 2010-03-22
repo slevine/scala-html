@@ -4,7 +4,7 @@ This project enhances [Florian Hars][] nice Scala HTML parsing libraries.  There
 
 
 To run the project
-==================
+------------------
 Install [Simple Build Tool][]
    
 Run the following sequence of commands:
